@@ -1,0 +1,38 @@
+body{
+
+
+  background-image:linear-gradient(orange , white, green);
+margin: 10%;
+}
+
+#title{
+  margin-top: 0;
+  text-align: center;
+  text-shadow: 5px 5px 10px white;
+  font-size: 1.875em;
+
+}
+
+.about{
+font-size: 20px;
+font-family: sans-serif;
+color: black;
+}
+#notes{
+   box-shadow: 20px 20px 20px white;
+   font-family: sans-serif;
+   padding: 25px;
+   margin:10px;
+   margin-bottom: 100px;
+}
+.title-about{
+  font-size: 1.875em;
+  color: green;
+  text-align: center;
+  text-shadow: 5px 5px 5px white;
+}
+.link{
+  
+  font-size:0.875em;
+  padding: 40px;
+}
